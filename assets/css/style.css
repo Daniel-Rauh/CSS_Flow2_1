@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+div{
+    width: 70%;
+    margin: auto;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+img{
+    width: 40%;
+}
+.steve img{
+    float: left;
+    shape-outside: polygon(69% 0, 83% 21%, 68% 59%, 100% 76%, 100% 100%, 50% 100%, 21% 100%, 0 100%, 0% 35%, 0 0);
+}
+.zuck{
+    clear: both;
+}
+.zuck img{
+    width: 60%;
+    float: right;
+    shape-outside: polygon(33% 0, 100% 0, 100% 35%, 100% 70%, 100% 100%, 50% 100%, 0 100%, 0 82%, 21% 73%, 31% 48%);
+}
